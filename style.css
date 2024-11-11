@@ -16,3 +16,12 @@ h1 {
     font-weight: 300;
 }
 
+thead {
+    background-color: grey;
+    font-weight: 300;
+}
+
+th {
+    background-color: aliceblue;
+}
+
